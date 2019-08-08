@@ -203,6 +203,7 @@ de:
     "Hide childpages": "Unterseiten ausblenden"
     hide_elements: "Elemente ausblenden"
     hide_element: "Element ausblenden"
+    items_per_page: "%{model_name} pro Seite"
     "Image missing": "Bild fehlt"
     "Image size": "Bildgröße"
     "Language successfully created": "Sprache wurde erfolgreich erstellt."
