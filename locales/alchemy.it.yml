@@ -435,6 +435,7 @@ it:
       pages: "Pagine"
       tags: "Tags"
       sites: "Siti"
+      menu: "Menu"
     name: "Nome"
     names: "Nomi"
     navigation_name: "Nome di navigazione"
