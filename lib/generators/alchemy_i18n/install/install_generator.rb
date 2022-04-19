@@ -28,6 +28,13 @@ module AlchemyI18n
         end
       end
 
+      def copy_select2_locales
+        locales.each do |locale|
+          js_filename = "select2_locale_#{locale}.js"
+          copy_file File.join('vendor', 'assets', 'javascripts', js_filename), Rails.root.join('vendor', 'assets', 'javascripts', js_filename)
+        end
+      end
+
       def append_assets
         locales.each do |locale|
           append_file 'vendor/assets/javascripts/alchemy/admin/all.js', <<~ASSETS
