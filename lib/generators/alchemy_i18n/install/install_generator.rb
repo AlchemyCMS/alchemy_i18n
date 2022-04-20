@@ -55,7 +55,7 @@ module AlchemyI18n
 
       def add_rails_i18n
         environment do
-          "config.i18n.available_locales = #{locales.map(&:to_sym).inspect}"
+          "config.i18n.available_locales = #{[:en].concat(locales.map(&:to_sym)).inspect}"
         end
       end
 
