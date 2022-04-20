@@ -53,12 +53,6 @@ module AlchemyI18n
         end
       end
 
-      def add_rails_i18n
-        environment do
-          "config.i18n.available_locales = #{locales.map(&:to_sym).inspect}"
-        end
-      end
-
       def add_russian_gem
         if locales.include?('ru')
           gem 'russian', '~> 0.6'
