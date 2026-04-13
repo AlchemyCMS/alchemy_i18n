@@ -1,5 +1,18 @@
 # Changelog
 
+## 8.2.0 (2026-04-13)
+
+## What's Changed
+* Start development of version 5.2.0.dev by @alchemycms-bot[bot] in https://github.com/AlchemyCMS/alchemy_i18n/pull/91
+* Translations for schedule element button by @tvdeyen in https://github.com/AlchemyCMS/alchemy_i18n/pull/88
+* Add XML to show_page_in_sitemap translations across all locales by @antwertinger in https://github.com/AlchemyCMS/alchemy_i18n/pull/92
+* Add missing Alchemy 8.2 translations by @tvdeyen in https://github.com/AlchemyCMS/alchemy_i18n/pull/93
+
+## New Contributors
+* @antwertinger made their first contribution in https://github.com/AlchemyCMS/alchemy_i18n/pull/92
+
+**Full Changelog**: https://github.com/AlchemyCMS/alchemy_i18n/compare/v5.1.0...v8.2.0
+
 ## 5.1.0 (2026-02-18)
 
 ## What's Changed
