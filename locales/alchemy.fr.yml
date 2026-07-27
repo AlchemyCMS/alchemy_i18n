@@ -1165,6 +1165,7 @@ fr:
         public_on: "Visible à partir du"
         public_until: "Visible jusqu'au"
         restricted: "Mot de passe protégé"
+        permitted_roles: "sauf pour les utilisateurs ayant l'un de ces rôles"
         robot_follow: "laissez le robot suivre les liens"
         robot_index: "index par Robot"
         searchable: "afficher dans la recherche"

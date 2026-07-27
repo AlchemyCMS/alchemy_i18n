@@ -1110,6 +1110,7 @@ nb-NO:
         public_on: "Synlig fra"
         public_until: "Synlig til"
         restricted: "begrenset"
+        permitted_roles: "unntatt for brukere med en av disse rollene"
         searchable: "vis i søk"
         robot_follow: "robot kan følge koblinger"
         robot_index: "tillat robot å indeksere"

@@ -740,7 +740,7 @@ de:
         "true": "Die Seite wird gerade bearbeitet."
         "false": ""
       restricted:
-        "true": "Die Seite ist beschränkt auf Mitglieder."
+        "true": "Die Seite ist beschränkt auf Benutzer mit einer speziellen Nutzerrolle."
         "false": "Die Seite ist für jeden zugänglich."
       scheduled:
         public_on: "Die Seite ist sichtbar ab %{public_on}"
@@ -1217,6 +1217,7 @@ de:
         parent: "Übergeordnete Seite"
         public: "veröffentlicht"
         restricted: "Passwort geschützt"
+        permitted_roles: "außer für Benutzer mit einer dieser Rollen"
         robot_follow: "den Robot Links folgen lassen"
         robot_index: "durch Robot indizieren"
         nodes: "Menü-Einträge"

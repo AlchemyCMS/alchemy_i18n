@@ -1110,6 +1110,7 @@ pl:
         public_on: "Widoczna od"
         public_until: "Widoczna do"
         restricted: "zastrzeżona"
+        permitted_roles: "z wyjątkiem użytkowników z jedną z tych ról"
         searchable: "pokaż w wynikach wyszukiwania"
         robot_follow: "robot może podążać za linkami"
         robot_index: "zezwalaj robotowi na indeksowanie"

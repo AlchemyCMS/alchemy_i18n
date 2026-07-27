@@ -1159,6 +1159,7 @@ es:
         public_on: "Visible desde"
         public_until: "Visible hasta"
         restricted: "restringida"
+        permitted_roles: "excepto para usuarios con uno de estos roles"
         robot_follow: "robot puede seguir enlaces"
         robot_index: "permitir indexar al robot"
         searchable: "indexable"

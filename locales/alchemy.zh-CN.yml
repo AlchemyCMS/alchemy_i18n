@@ -817,6 +817,7 @@ zh-CN:
         page_type: "页面类型"
         public: "公共"
         restricted: "受限"
+        permitted_roles: "以下角色的用户除外"
         robot_follow: "允许机器人追踪链接"
         robot_index: "允许机器人索引"
         sitemap: "在 XML 站点地图中显示页面。"

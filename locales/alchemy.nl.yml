@@ -1110,6 +1110,7 @@ nl:
         public_on: "Zichtbaar vanaf"
         public_until: "Zichtbaar tot"
         restricted: "afgeschermd"
+        permitted_roles: "behalve voor gebruikers met een van deze rollen"
         searchable: "tonen in zoekresultaten"
         robot_follow: "robot mag URL's volgen"
         robot_index: "robot mag index volgen"

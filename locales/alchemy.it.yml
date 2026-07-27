@@ -1132,6 +1132,7 @@ it:
         page_type: "Tipo pagina"
         public: "pubblica"
         restricted: "riservata"
+        permitted_roles: "tranne per gli utenti con uno di questi ruoli"
         robot_follow: "i robot possono seguire i link"
         robot_index: "consenti ai robot di indicizzare la pagina"
         nodes: "Nodi menu"
