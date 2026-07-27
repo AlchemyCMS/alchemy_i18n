@@ -131,6 +131,10 @@ ru:
       editor: "Редактор"
       admin: "Администратор"
 
+    # == Restricted roles translations
+    restricted_roles:
+      member: "Участник"
+
     # == Mime Types translations
     # These are human readable mime types used for the document-type row in archive files.
     mime_types:
@@ -829,6 +833,7 @@ ru:
         page_type: "Тип страницы"
         public: "опубликована"
         restricted: "ограничена"
+        restricted_roles: "кроме пользователей с одной из этих ролей"
         robot_follow: "робот может посещать ссылки на странице"
         robot_index: "робот может индексировать стрницу"
         sitemap: "Отображать страницу в XML-карте сайта"

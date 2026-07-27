@@ -138,6 +138,10 @@ nb-NO:
       editor: "Redaktør"
       admin: "Administrator"
 
+    # == Restricted roles translations
+    restricted_roles:
+      member: "Medlem"
+
     # == Mime Types translations
     # These are human readable mime types used for the document-type row in archive files.
     mime_types: &mime_types
@@ -1110,6 +1114,7 @@ nb-NO:
         public_on: "Synlig fra"
         public_until: "Synlig til"
         restricted: "begrenset"
+        restricted_roles: "unntatt for brukere med en av disse rollene"
         searchable: "vis i søk"
         robot_follow: "robot kan følge koblinger"
         robot_index: "tillat robot å indeksere"

@@ -138,6 +138,10 @@ nl:
       editor: "Editor"
       admin: "Administrator"
 
+    # == Restricted roles translations
+    restricted_roles:
+      member: "Lid"
+
     # == Mime Types translations
     # These are human readable mime types used for the document-type row in archive files.
     mime_types: &mime_types
@@ -1110,6 +1114,7 @@ nl:
         public_on: "Zichtbaar vanaf"
         public_until: "Zichtbaar tot"
         restricted: "afgeschermd"
+        restricted_roles: "behalve voor gebruikers met een van deze rollen"
         searchable: "tonen in zoekresultaten"
         robot_follow: "robot mag URL's volgen"
         robot_index: "robot mag index volgen"

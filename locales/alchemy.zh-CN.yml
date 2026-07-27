@@ -145,6 +145,10 @@ zh-CN:
       editor: "编辑"
       admin: "管理员"
 
+    # == Restricted roles translations
+    restricted_roles:
+      member: "成员"
+
     # == Mime Types translations
     # These are human readable mime types used for the document-type row in archive files.
     mime_types:
@@ -817,6 +821,7 @@ zh-CN:
         page_type: "页面类型"
         public: "公共"
         restricted: "受限"
+        restricted_roles: "以下角色的用户除外"
         robot_follow: "允许机器人追踪链接"
         robot_index: "允许机器人索引"
         sitemap: "在 XML 站点地图中显示页面。"

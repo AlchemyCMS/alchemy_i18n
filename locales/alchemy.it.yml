@@ -138,6 +138,10 @@ it:
       editor: "Editore"
       admin: "Amministratore"
 
+    # == Restricted roles translations
+    restricted_roles:
+      member: "Membro"
+
     # == Mime Types translations
     # These are human readable mime types used for the document-type row in archive files.
     mime_types: &mime_types
@@ -1132,6 +1136,7 @@ it:
         page_type: "Tipo pagina"
         public: "pubblica"
         restricted: "riservata"
+        restricted_roles: "tranne per gli utenti con uno di questi ruoli"
         robot_follow: "i robot possono seguire i link"
         robot_index: "consenti ai robot di indicizzare la pagina"
         nodes: "Nodi menu"
