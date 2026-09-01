@@ -1,5 +1,16 @@
 # Changelog
 
+## 8.4.0 (2026-09-01)
+
+<!-- Release notes generated using configuration in .github/release.yml at 8.4-stable -->
+
+## What's Changed
+### Other Changes
+* fix: Add missing 8.4 translations for main locales by @tvdeyen in https://github.com/AlchemyCMS/alchemy_i18n/pull/104
+
+
+**Full Changelog**: https://github.com/AlchemyCMS/alchemy_i18n/compare/v8.3.0...v8.4.0
+
 ## 8.3.0 (2026-06-25)
 
 <!-- Release notes generated using configuration in .github/release.yml at main -->
