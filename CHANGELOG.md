@@ -1,5 +1,21 @@
 # Changelog
 
+## 8.4.1 (2026-10-13)
+
+<!-- Release notes generated using configuration in .github/release.yml at 8.4-stable -->
+
+## What's Changed
+### Other Changes
+* fix: Add missing Help menu translations [8.4-stable] by @tvdeyen in https://github.com/AlchemyCMS/alchemy_i18n/pull/108
+* [8.4-stable] Merge pull request #106 from AlchemyCMS/add-chinese-translations by @alchemycms-ci-bot in https://github.com/AlchemyCMS/alchemy_i18n/pull/110
+* [8.4-stable] Merge pull request #109 from AlchemyCMS/add-create-resource-translations by @alchemycms-ci-bot in https://github.com/AlchemyCMS/alchemy_i18n/pull/111
+* [8.4-stable] fix: Add missing Tom Select JS translations by @alchemycms-bot[bot] in https://github.com/AlchemyCMS/alchemy_i18n/pull/115
+
+## New Contributors
+* @alchemycms-ci-bot made their first contribution in https://github.com/AlchemyCMS/alchemy_i18n/pull/110
+
+**Full Changelog**: https://github.com/AlchemyCMS/alchemy_i18n/compare/v8.4.0...v8.4.1
+
 ## 8.4.0 (2026-09-01)
 
 <!-- Release notes generated using configuration in .github/release.yml at 8.4-stable -->
