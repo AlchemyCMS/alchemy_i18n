@@ -1,5 +1,19 @@
 # Changelog
 
+## 9.0.1 (2026-10-13)
+
+<!-- Release notes generated using configuration in .github/release.yml at main -->
+
+## What's Changed
+### Other Changes
+* Add missing Chinese translations by @tvdeyen in https://github.com/AlchemyCMS/alchemy_i18n/pull/106
+* fix: Add missing Help menu translations by @tvdeyen in https://github.com/AlchemyCMS/alchemy_i18n/pull/107
+* Add create resource translations by @tvdeyen in https://github.com/AlchemyCMS/alchemy_i18n/pull/109
+* fix: Add missing Tom Select JS translations by @tvdeyen in https://github.com/AlchemyCMS/alchemy_i18n/pull/113
+
+
+**Full Changelog**: https://github.com/AlchemyCMS/alchemy_i18n/compare/v8.4.0...v9.0.1
+
 ## 8.3.0 (2026-06-25)
 
 <!-- Release notes generated using configuration in .github/release.yml at main -->
