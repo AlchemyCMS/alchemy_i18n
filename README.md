@@ -2,10 +2,18 @@
 
 Translation files for [AlchemyCMS](https://github.com/AlchemyCMS/alchemy_cms) 8.0 and above.
 
+> [!IMPORTANT]
+> Starting with Alchemy CMS 9.0, `alchemy_i18n` lives in the [`i18n/` directory of the Alchemy CMS repository](https://github.com/AlchemyCMS/alchemy_cms/tree/main/i18n)
+> and is released together with `alchemy_cms` using the same version.
+> Please open issues and pull requests for new translations there.
+>
+> This repository only receives fixes for the 8.x versions on its stable branches.
+
 ## Alchemy version
 
 | Alchemy CMS | alchemy_i18n | Branch        |
 |-------------|-------------|---------------|
+| >= 9.0      | Same as Alchemy CMS | [`alchemy_cms/i18n`](https://github.com/AlchemyCMS/alchemy_cms/tree/main/i18n) |
 | 8.4         | >= 8.4.0    | `8.4-stable`  |
 | 8.3         | >= 8.2.0    | `8.2-stable`  |
 | 8.2         | >= 8.2.0    | `8.2-stable`  |
@@ -41,9 +49,14 @@ Russian (`ru`) and Chinese (`zh-CN`) are at roughly 68% coverage and need help.
 
 ## Contributing
 
+Translations for Alchemy CMS 9.0 and above are maintained in the
+[Alchemy CMS repository](https://github.com/AlchemyCMS/alchemy_cms/tree/main/i18n).
+
+To fix translations of an 8.x version:
+
 1. Fork the repository
-2. Add or update translations in the locale files under `locales/`
-3. Open a pull request
+2. Add or update translations in the locale files under `locales/` of the matching stable branch
+3. Open a pull request against that stable branch
 
 ## License
 
